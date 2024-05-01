@@ -17,6 +17,9 @@
       },
       "api": {
         "amplifyreactgraph": {}
+      },
+      "storage": {
+        "contentimages": {}
       }
     }
   }
